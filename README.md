@@ -1,7 +1,7 @@
 # scm-ml-thesis
 Machine Learning Algorithms in Supply Chain Management Systems - Master Thesis
 # Machine Learning in Supply Chain Management Systems
-## Master Thesis — EKPA, 2026-2027
+## Master Thesis — MSc. in Business Administration, Analytics and Information Systems, National & Kapodistrian University of Athens 2026-2027
 
 ### Title
 "The Impact of Machine Learning Algorithms on Supply Chain 
