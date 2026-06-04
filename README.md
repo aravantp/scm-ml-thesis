@@ -9,9 +9,8 @@ Management Systems: Digital Twins, Generative AI and Blockchain"
 
 ### Description
 This repository contains the code, analysis and results for 
-my master thesis at the University of Athens (EKPA), 
-Department of Business Administration, Analytics and 
-Information Systems.
+my master thesis at the University of Athens (UOA), 
+MSc. in Business Administration, Analytics and Information Systems.
 
 ### Dataset
 DataCo Smart Supply Chain Dataset
